@@ -201,10 +201,10 @@
 
     <string name="about_device_name">Device</string>
 
-    <!-- About phone screen, corvus version -->
-    <string name="crvs_version">Corvus version</string>
+    <!-- About phone screen, corvus revived version -->
+    <string name="crvs_version">Corvus Revived version</string>
     <string name="crvs_version_default">Unknown</string>
-    <string name="keywords_durex_version">corvus version</string>
+    <string name="keywords_durex_version">corvus Revived version</string>
 
     <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>
